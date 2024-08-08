@@ -1,2 +1,2 @@
 # MediMeet
-A Doctor's Appointment Booking MERN app.
+URL Shortening MERN Stack Project.
